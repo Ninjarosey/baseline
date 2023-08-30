@@ -1,4 +1,4 @@
-# Cross-level Feature Aggregation Network for Polyp Segmentation
+# Cross-level Feature Aggregation Network for Polyp Segmentation 
 
 > **Authors:** 
 > [Tao Zhou](https://taozh2017.github.io/),
@@ -12,7 +12,7 @@
 
 ## 1. Preface
 
-- This repository provides code for "_**Cross-level Feature Aggregation Network for Polyp Segmentation (CFANet)**_". 
+- This is a repository provides code for "_**Cross-level Feature Aggregation Network for Polyp Segmentation (CFANet)**_". 
 ([paper](https://www.sciencedirect.com/science/article/pii/S0031320323002558))
 
 - If you have any questions about our paper, feel free to contact me. And if you are using CFANet for your research, please cite this paper ([BibTeX](#4-citation)).
