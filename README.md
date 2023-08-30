@@ -15,7 +15,7 @@
 - This is a brach1 repository provides code for "_**Cross-level Feature Aggregation Network for Polyp Segmentation (CFANet)**_". 
 ([paper](https://www.sciencedirect.com/science/article/pii/S0031320323002558))
 
-- If you have any questions about our paper, feel free to contact me. And if you are using CFANet for your research, please cite this paper ([BibTeX](#4-citation)).
+- If you have brach2 any questions about our paper, feel free to contact me. And if you are using CFANet for your research, please cite this paper ([BibTeX](#4-citation)).
 
 
 ### 1.1. :fire: NEWS :fire:
